@@ -39,7 +39,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
 
-  <img src="path/to/fastai-logo.png" alt="FastAI Logo" width="300" height="auto" />
+  [![Fastai](https://img.shields.io/badge/Fastai-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)](https://docs.fast.ai/)
+
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
